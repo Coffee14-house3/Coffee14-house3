@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=%22Impossible+is+a+word+to+be+found+only+in+the+dictionary+of+fools.%22;—+Napoleon+Bonaparte&center=true&width=650&height=50&color=F778BA&size=18">
+</p>
 <h1 align="center">Hi 👋, I'm Prathikaa</h1>
 <h3 align="center">🤖 AI & Generative AI Explorer | 💻 Full-Stack Developer | ☁️ Cloud Computing Explorer  | 🛡️ Cybersecurity Learner | 💻 Software Developer </h3>
 
