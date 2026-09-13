@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Prathikaa</h1>
-<h3 align="center">Python Developer | Flask Developer | Cybersecurity Enthusiast</h3>
+<h3 align="center">🤖 AI & Generative AI Explorer | 💻 Full-Stack Developer | ☁️ Cloud Computing Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Python+Developer;Flask+Developer;Network+Security+Learner;Open+Source+Enthusiast&center=true&width=500&height=50">
+  <img src="https://readme-typing-svg.demolab.com/?lines=AI+%26+Generative+AI+Explorer;Full-Stack+Developer;Cloud+Computing+Enthusiast;Cybersecurity+Learner&center=true&width=550&height=50">
 </p>
 
 ---
@@ -36,25 +36,6 @@ Turning ideas into intelligent solutions with code, AI, and curiosity.
 - **Cybersecurity & Tools:** Wireshark, Nmap, Cisco Packet Tracer, New Relic, Git, Power BI
 
 ---
-
-## 📊 GitHub Stats
-
-![Coffee14-house3's GitHub stats](https://github-readme-stats.vercel.app/api?username=Coffee14-house3&show_icons=true&theme=tokyonight)
-
----
-
-## 🔥 GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Coffee14-house3&theme=tokyonight)
-
----
-
-## 💻 Most Used Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Coffee14-house3&layout=compact&theme=tokyonight)
-
----
-
 
 ## 📌 Featured Projects
 
