@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Prathikaa</h1>
-<h3 align="center">🤖 AI & Generative AI Explorer | 💻 Full-Stack Developer | ☁️ Cloud Computing Enthusiast</h3>
+<h3 align="center">🤖 AI & Generative AI Explorer | 💻 Full-Stack Developer | ☁️ Cloud Computing Explorer  | 🛡️ Cybersecurity Learner | 💻 Software Developer </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=AI+%26+Generative+AI+Explorer;Full-Stack+Developer;Cloud+Computing+Enthusiast;Cybersecurity+Learner&center=true&width=550&height=50">
+  <img src="https://readme-typing-svg.demolab.com/?lines=AI+%26+Generative+AI+Explorer;Full-Stack+Developer;Cloud+Computing+Enthusiast;Software+Developer&center=true&width=550&height=50">
 </p>
 
 ---
