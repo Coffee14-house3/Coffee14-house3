@@ -23,19 +23,36 @@ Turning ideas into intelligent solutions with code, AI, and curiosity.
 
 ## 🛠️ Skills & Toolstack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,php,html,css,bootstrap,js,react,nodejs,mysql,mongodb,aws,linux,kali,git,github,vscode,figma" />
+<div align="center">
+
+### 💻 Languages & Frameworks
+<p>
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,php,flask,react,nodejs,html,css,bootstrap,js" />
 </p>
 
-**Core Competencies:**
-- **Languages:** Python, C, C++, PHP, Java (Basics)
-- **Web & Frameworks:** HTML5, CSS3, Bootstrap, JavaScript, React.js, Node.js, Flask
-- **Databases:** MySQL, SQL Plus, MongoDB, Chroma DB
-- **Cloud & OS:** AWS Cloud, Ubuntu, Kali Linux, Windows
-- **AI / ML:** Data Cleaning, Python ML Libraries, Feature Extraction, Generative AI & Prompt Engineering
-- **Cybersecurity & Tools:** Wireshark, Nmap, Cisco Packet Tracer, New Relic, Git, Power BI
+### ☁️ Cloud, Databases & DevOps
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,mysql,mongodb,git,github,linux,kali,docker" />
+</p>
+
+### 🛡️ Cybersecurity & Dev Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,postman,figma" />
+</p>
+
+</div>
 
 ---
+
+### ⚡ Core Competencies Breakdown
+
+| Domain | Technologies & Focus |
+| :--- | :--- |
+| 🧠 **AI & Machine Learning** | Generative AI, Prompt Engineering, Feature Extraction, Anomaly Detection, Chroma DB, Python ML Libs |
+| 🛡️ **Cybersecurity & Networking** | Wireshark, Nmap, Cisco Packet Tracer, Network Traffic Inspection, Threat Analysis |
+| 🌐 **Full-Stack & Cloud** | Python (Flask), React.js, Node.js, REST APIs, AWS Cloud Infrastructure |
+| 🗄️ **Databases & Storage** | MySQL, SQL Plus, MongoDB, Chroma DB (Vector Search) |
+| 📊 **Monitoring & Business Intel** | New Relic, Power BI, Git / GitHub Version Control |
 
 ## 📌 Featured Projects
 
